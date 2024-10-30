@@ -3,4 +3,4 @@ solution.js
 .env
 package.json
 package-lock.json
-.gitignore
+gitignore
